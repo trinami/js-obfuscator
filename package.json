@@ -1,0 +1,17 @@
+{
+  "name": "js-obfuscator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hide.js",
+  "scripts": {
+    "obfuscate": "node hide.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "javascript-obfuscator": "^4.1.0",
+    "jsfuck": "^0.4.0",
+    "uglify-js": "^3.17.4"
+  }
+}
