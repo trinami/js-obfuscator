@@ -2,4 +2,6 @@
 
 using JSFuck, javascript-obfuscator and uglyjs
 
-``` npm run obfuscate test.js test.out.js ```
+```bash
+npm run obfuscate test.js test.out.js
+```
